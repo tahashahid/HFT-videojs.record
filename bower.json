@@ -1,0 +1,15 @@
+{
+  "name": "HFT-videojs.record",
+  "homepage": "https://github.com/tahashahid/HFT-videojs.record",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "main": [
+      "src/video-js.min.css",
+      "src/videojs.record.min.css"
+      "src/video.min.js"
+      "src/RecordRTC.js"
+      "src/adapter.js"
+      "src/videojs.record.min.js"
+  ],
+  
+}
