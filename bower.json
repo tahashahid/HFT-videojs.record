@@ -9,7 +9,7 @@
       "src/video.min.js",
       "src/RecordRTC.js",
       "src/adapter.js",
-      "src/videojs.record.min.js",
+      "src/videojs.record.min.js"
   ],
   
 }
