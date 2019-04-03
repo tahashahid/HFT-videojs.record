@@ -10,6 +10,6 @@
       "src/RecordRTC.js",
       "src/adapter.js",
       "src/videojs.record.min.js"
-  ],
+  ]
   
 }
